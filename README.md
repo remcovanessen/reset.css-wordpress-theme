@@ -1,5 +1,3 @@
-# Bootstrap Blog
+# Reset.css wordpress theme
 
-Build on the official Bootstrap blog starter template to learn WordPress.
-
-### [View the tutorial!](https://www.taniarascia.com/developing-a-wordpress-theme-from-scratch/)
+No CSS - just the infrastructure for your pages and blogs - nothing else.
